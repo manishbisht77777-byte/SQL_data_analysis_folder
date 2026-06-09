@@ -1,0 +1,7 @@
+I am providing the drive link here which includes all the data csv files 
+It includes all csv files that are used by me in analysis  i.e 
+job_postings_fact
+company_dim
+skills_dim
+skills_job_dim
+DRIVE LINK  = 'https://drive.google.com/drive/folders/1Uc5ffmBr-jouTo9L_rpMHasixSv48pPS?usp=drive_link'
